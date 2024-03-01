@@ -231,3 +231,6 @@ footer{
     background: #131921;
     padding: 20px 60px;
 }
+footer h2{
+    color: rgb(179, 9, 205);
+}
